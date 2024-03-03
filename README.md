@@ -31,3 +31,18 @@
 12. Harshad number
 13. Abundant number
 14. Friendly pair
+
+## Working with Numbers
+
+#### Day - 03/03/2024
+
+1. HCF
+2. LCM
+3. Greatest Common Divisor
+4. Binary to Decimal
+5. Octal to Decimal conversion
+6. Hexadecimal to Decimal conversion
+7. Decimal to Binary conversion
+8. Binary to Decimal
+9. Decimal to Octal Conversion
+10.
