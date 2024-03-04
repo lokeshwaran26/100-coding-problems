@@ -45,4 +45,13 @@
 7. Decimal to Binary conversion
 8. Binary to Decimal
 9. Decimal to Octal Conversion
-10.
+
+#### Day - 04/03/2024
+
+1. Decimal to Hexadecimal
+2. Binary to Octal
+3. Octal to binary
+4. Quadrants in which a given coordinate lies
+5. Permutations in which n people can occupy r seats in a classroom
+6. Maximum number of handshakes
+7. Addtion of two factors
