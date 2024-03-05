@@ -55,3 +55,9 @@
 5. Permutations in which n people can occupy r seats in a classroom
 6. Maximum number of handshakes
 7. Addtion of two factors
+
+#### Day - 05/03/2024
+
+1. Replace all 0’s with 1 in a given integer
+2. Can a number be expressed as a sum of two prime numbers
+3. Count possible decoding of a given digit sequence
