@@ -36,28 +36,33 @@
 
 #### Day - 03/03/2024
 
-1. HCF
-2. LCM
-3. Greatest Common Divisor
-4. Binary to Decimal
-5. Octal to Decimal conversion
-6. Hexadecimal to Decimal conversion
-7. Decimal to Binary conversion
-8. Binary to Decimal
-9. Decimal to Octal Conversion
+1. **HCF**
+2. **LCM**
+3. **Greatest Common Divisor**
+4. **Binary to Decimal**
+5. **Octal to Decimal conversion**
+6. **Hexadecimal to Decimal conversion**
+7. **Decimal to Binary conversion**
+8. **Binary to Decimal**
+9. **Decimal to Octal Conversion**
 
 #### Day - 04/03/2024
 
-1. Decimal to Hexadecimal
-2. Binary to Octal
-3. Octal to binary
-4. Quadrants in which a given coordinate lies
-5. Permutations in which n people can occupy r seats in a classroom
-6. Maximum number of handshakes
-7. Addtion of two factors
+1. **Decimal to Hexadecimal**
+2. **Binary to Octal**
+3. **Octal to binary**
+4. **Quadrants in which a given coordinate lies**
+5. **Permutations in which n people can occupy r seats in a classroom**
+6. **Maximum number of handshakes**
+7. **Addtion of two factors**
 
 #### Day - 05/03/2024
 
-1. Replace all 0’s with 1 in a given integer
-2. Can a number be expressed as a sum of two prime numbers
-3. Count possible decoding of a given digit sequence
+1. **Replace all 0’s with 1 in a given integer**
+2. **Can a number be expressed as a sum of two prime numbers**
+3. **Count possible decoding of a given digit sequencem**
+
+##### Day - 8/03/2024
+
+1. **Calculate the area of a circle**
+2. **Find the prime numbers between 1 to 100**
