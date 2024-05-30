@@ -8,3 +8,4 @@ while num != 0:
     binary += rem*i
     i *= 10
 print(binary)
+f
